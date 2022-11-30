@@ -1,0 +1,90 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: linear-gradient( rgb(244, 237, 238),white);
+
+}
+
+#hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+    /* background-size: auto; */
+    background-position: center;
+    /* background-repeat: no-repeat; */
+    background-image: url("https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTmbKXqjASVBEr7mMwsd-mRnVeHWZGFYwkdLmKmiy61vvZlNLp5URTD5wD4o9E6nGsMYyrvPj3pLp9QknHs7R0Vog");
+    margin-bottom: 0;
+
+}
+
+.one,
+.two {
+    background-color: rgb(181, 210, 244);
+    color: black}
+
+
+.activities_section {
+    display: flex;
+    justify-content: space-between;
+ 
+
+}
+
+.places {
+    width: 300px;
+    border-radius: 20%;
+
+}
+.places:hover {
+    width: 400px;
+}
+
+#sub-hero {
+    margin-top: 0px;
+    background-color: rgb(244, 237, 238);
+
+
+}
+
+#mini-hero {
+    padding-top: 30px;
+    display: flex;
+    width: 600px;
+    justify-content: center;
+    padding-bottom: 30px;
+    margin: 20px 300px;
+    background-color: #A8DADC;
+    margin-top: 2px;
+    margin-bottom: 4px;
+
+}
+
+.guide-image {
+    margin-top: 2px;
+    width: 180px;
+    height: 200px;
+
+    margin-left: 30px;
+    margin-right: 20px;
+
+}
+
+.guide-description {
+
+    margin-right: 20px;
+    margin-left: 20px;
+
+}
+
