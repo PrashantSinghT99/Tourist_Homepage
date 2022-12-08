@@ -1,7 +1,7 @@
 # Tourist_HometownHomepage
 
 Created Tourist Homepage for practise using HTML+CSS
-Solo project This was a 'from scratch' project as part of learning Frontend Web Dev from Scrimba.com after completing the basic HTML and CSS introduction section. The requirements were:
+Solo project This was a 'from scratch' project as part of learning Frontend Web Dev from Scrimba.com. The requirements were:
 
 Used classes
 Used Flexbox
